@@ -1,8 +1,5 @@
-
-
-
-# NEXTER LAYOUT
-#### Nexter Landing Page created using course made by Jonas Schmedtmann, the main focus was the creation of the layout using SASS and CSS GRID.
+# TRELLO LAYOUT
+#### Trello Landing Page created using course made by Jonas Schmedtmann, the main focus was the creation of the layout using SASS and CSS GRID.
 
 
 <br />
@@ -21,10 +18,13 @@ As seguintes tecnologias foram usadas na construção do projeto:
 ### 📷 Prints:
 
 #### Desktop:
-<img src="https://i.ibb.co/th2T5GQ/DESKTOP-1.png" width="30%"></img> <img src="https://i.ibb.co/MsPhNcj/DESKTOP-2.png" width="30%"></img> <img src="https://i.ibb.co/3Y3yDbK/DESKTOP-3.png" width="30%"></img> 
+<img src="https://i.ibb.co/Z6nN6TH/Desktop.png" width="30%"></img> <img src="https://i.ibb.co/LNBDQN5/desktop-2.png" width="30%"></img> <img src="https://i.ibb.co/Z6nN6TH/Desktop.png" width="30%"></img> 
 
 #### Mobile:
-<img src="https://i.ibb.co/xznKPmf/MOBILE-1.png" width="45%"></img> <img src="https://i.ibb.co/z4WRw5q/MOBILE-2.png" width="45%"></img><img src="https://i.ibb.co/4jvHPRM/MOBILE-3.png" width="30%"></img>
+<img src="https://i.ibb.co/9ZCDLvF/mobile-01.png" width="45%"></img> <img src="https://i.ibb.co/9sjZSLw/mobile-02.png" width="45%"></img><img src="https://i.ibb.co/9sjZSLw/mobile-02.png" width="30%"></img>
 
 #### Tablets:
-<img src="https://i.ibb.co/3MsFXkM/TABLETE-1.png" width="45%"></img> <img src="https://i.ibb.co/RDdgkk9/TABLETE-2.png" width="45%"></img><img src="https://i.ibb.co/wN69z66/TABLETE-3.png" width="30%"></img>
+<img src="https://i.ibb.co/k180Pr2/tablet-01.png" width="45%"></img> <img src="https://i.ibb.co/yBD559r/tablet-02.png" width="45%"></img><img src="https://i.ibb.co/yBD559r/tablet-02.png" width="30%"></img>
+
+
+
